@@ -1,7 +1,7 @@
 key parent palette_config~!TemplatePalettePlannerOutfitPage.prop
 string16 description "Outfits"
-int32 palettePageNumColumns 7
-int32 palettePageNumRows 9
+int32 palettePageNumColumns 5
+int32 palettePageNumRows 3
 vector4 palettePageBorder (0.05, 0.45, 0.05, 0.09)
 float palettePageItemAspectRatio 1
 float palettePageItemPercentageWidth 0.2

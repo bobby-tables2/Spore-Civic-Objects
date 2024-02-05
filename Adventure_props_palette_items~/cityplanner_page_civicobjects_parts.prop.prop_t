@@ -1,128 +1,96 @@
 int32s palettePagePartItemColumns
 	0
-	1
-	2
-	3
-	4
-	5
-	6
+	0
+	0
+	0
+	0
+	0
+	0
+	0
 	0
 	1
-	2
-	3
-	4
-	5
-	6
-	0
+	1
+	1
+	1
+	1
+	1
+	1
+	1
 	1
 	2
-	3
-	4
-	5
-	6
-	0
-	1
+	2
+	2
+	2
+	2
+	2
+	2
+	2
 	2
 	3
-	4
-	5
-	6
-	0
-	1
-	2
+	3
+	3
+	3
+	3
 	3
 	4
-	5
-	6
-	0
-	1
-	2
-	3
+	4
+	4
+	4
+	4
 	4
 	5
-	6
-	0
-	1
-	2
-	3
-	4
 	5
-	6
-	0
-	1
-	2
-	3
-	4
 	5
-	6
-	0
-	1
-	2
-	3
-	4
+	5
+	5
+	5
 end
 int32s palettePagePartItemRows
 	0
-	0
-	0
-	0
-	0
-	0
-	0
-	1
-	1
-	1
-	1
-	1
-	1
 	1
 	2
-	2
-	2
-	2
-	2
-	2
-	2
-	3
-	3
-	3
-	3
-	3
-	3
 	3
 	4
-	4
-	4
-	4
-	4
-	4
-	4
-	5
-	5
-	5
-	5
-	5
-	5
 	5
 	6
-	6
-	6
-	6
-	6
-	6
-	6
-	7
-	7
-	7
-	7
-	7
-	7
 	7
 	8
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
 	8
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
 	8
-	8
-	8
+	0
+	1
+	2
+	3
+	4
+	5
+	0
+	1
+	2
+	3
+	4
+	5
+	0
+	1
+	2
+	3
+	4
+	5
 end
 keys palettePagePartItems
 	CivicObjects!ci_objects_floracontainers_large1
@@ -130,61 +98,45 @@ keys palettePagePartItems
 	CivicObjects!ci_objects_floracontainers_small1
 	CivicObjects!ci_objects_fountain1
 	CivicObjects!ci_objects_lamp1
-	CivicObjects!ci_objects_sign1
-	CivicObjects!ci_objects_squaregreeble_small
-	CivicObjects!ci_objects_rocksmall
+	SpaceCivicObjectDefinitions!ci_objects_sign1
+	SpaceCivicObjectDefinitions!ci_objects_squaregreeble_small
+	SpaceCivicObjectDefinitions!ci_objects_rocksmall
+	SpaceCivicObjectDefinitions!ci_objects_roundgreedble_small
 	CivicObjects!ci_objects_floracontainers_large2
 	CivicObjects!ci_objects_floracontainers_medium2
 	CivicObjects!ci_objects_floracontainers_small2
 	CivicObjects!ci_objects_fountain2
 	CivicObjects!ci_objects_lamp2
-	CivicObjects!ci_objects_sign2
-	CivicObjects!ci_objects_squaregreeble_medium
-	CivicObjects!ci_objects_rockmedium
+	SpaceCivicObjectDefinitions!ci_objects_sign2
+	SpaceCivicObjectDefinitions!ci_objects_squaregreeble_medium
+	SpaceCivicObjectDefinitions!ci_objects_rockmedium
+	SpaceCivicObjectDefinitions!ci_objects_roundgreedble_medium
 	CivicObjects!ci_objects_floracontainers_large3
 	CivicObjects!ci_objects_floracontainers_medium3
 	CivicObjects!ci_objects_floracontainers_small3
 	CivicObjects!ci_objects_fountain3
 	CivicObjects!ci_objects_lamp3
-	CivicObjects!ci_objects_sign3
-	CivicObjects!ci_objects_squaregreeble_large
-	CivicObjects!ci_objects_rocklarge
-	tribe_tools~!social1
-	tribe_tools~!social2
-	tribe_tools~!social3
-	tribe_tools~!heal
-	tribe_tools~!fish
-	tribe_tools~!gather
-	tribe_tools~!attack1
-	tribe_tools~!attack2
-	tribe_tools~!attack3
-	hutstyles!he_yurt_1
-	hutstyles!he_yurt_2
-	hutstyles!he_yurt_3
-	hutstyles!he_simple_1
-	hutstyles!he_simple_2
-	hutstyles!he_simple_3
-	hutstyles!he_timber_1
-	hutstyles!he_timber_2
-	hutstyles!he_timber_3
-	BuildingDefinitions!Military_turret
-	BuildingDefinitions!Cultural_turret
-	BuildingDefinitions!Economic_turret
-	SpaceBuildingDefinitions!Space_turret
-	citystyles~!Castle
-	citystyles~!Diplo
-	citystyles~!shrine
+	SpaceCivicObjectDefinitions!ci_objects_sign3
+	SpaceCivicObjectDefinitions!ci_objects_squaregreeble_large
+	SpaceCivicObjectDefinitions!ci_objects_rocklarge
+	SpaceCivicObjectDefinitions!ci_objects_roundgreedble_large
 	CivicObjects!0x49A8AACA
-	tribe_tools~!firepit
-	tribe_tools~!chieftain
+	SpaceCivicObjectDefinitions!ci_objects_civicpot
+	SpaceCivicObjectDefinitions!ci_objects_lamppost
+	SpaceCivicObjectDefinitions!ci_objects_plantbox
+	SpaceCivicObjectDefinitions!ci_objects_plaque
+	SpaceCivicObjectDefinitions!ci_objects_treebox
+	citystyles~!Castle
 	citystyles~!castle2
 	citystyles~!castle3
-	citystyles~!Curvy
-	citystyles~!grob
+	citystyles~!Diplo
+	citystyles~!diplo3
+	citystyles~!diplo3
+	citystyles~!shrine
 	citystyles~!shrine2
 	citystyles~!shrine3
-	citystyles~!diplo3
-	citystyles~!diplo3
+	citystyles~!Curvy
+	citystyles~!grob
 	citystyles~!spacecolony
 end
 key palettePagePartParentPage cityplanner_page_civicobjects

@@ -4,3 +4,6 @@ keys modelEffect
 	SG_mission_first_contact_attract
 end
 key modelMeshLOD0 0x49A8AACA.rw4
+texts blockName
+	(CivicObjects!0xb6d0479a) "Civ Transition Minigame Light"
+end
